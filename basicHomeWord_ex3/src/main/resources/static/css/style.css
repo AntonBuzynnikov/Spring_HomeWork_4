@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+form{
+    margin-top: 200px;
+    display:grid;
+    grid-row: 3;
+    gap: 5px;
+}
+.field{
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+.btn{
+    background-color: green;
+    border-radius: 10px;
+    height: 40px;
+    color: white;
+}
